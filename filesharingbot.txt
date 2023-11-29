@@ -1,0 +1,41 @@
+[29-Nov-23 15:02:15 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[29-Nov-23 15:23:43 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Nov-23 15:23:43 - INFO] - bot - Bot stopped.
+[29-Nov-23 15:24:00 - WARNING] - bot - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "messages.ExportChatInvite")
+[29-Nov-23 15:24:00 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[29-Nov-23 15:24:00 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: -1002116351869
+[29-Nov-23 15:24:00 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[29-Nov-23 15:36:37 - WARNING] - bot - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "messages.ExportChatInvite")
+[29-Nov-23 15:36:37 - WARNING] - bot - Bot can't Export Invite link from Force Sub Channel!
+[29-Nov-23 15:36:37 - WARNING] - bot - Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission, Current Force Sub Channel Value: -1002116351869
+[29-Nov-23 15:36:37 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[29-Nov-23 15:37:49 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[29-Nov-23 15:43:13 - WARNING] - pyrogram.connection.connection - Unable to connect due to network issues: Connection timed out
+[29-Nov-23 15:43:19 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Nov-23 15:43:19 - INFO] - bot - Bot stopped.
+[29-Nov-23 15:48:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[29-Nov-23 15:53:54 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Nov-23 15:53:54 - INFO] - bot - Bot stopped.
+[29-Nov-23 15:55:18 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[29-Nov-23 15:56:35 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Nov-23 15:56:35 - INFO] - bot - Bot stopped.
+[29-Nov-23 19:00:46 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[29-Nov-23 19:16:09 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[29-Nov-23 19:16:10 - INFO] - bot - Bot stopped.
