@@ -32,8 +32,8 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Harshu:Harshu@cluster0.id
 DB_NAME = os.environ.get("DATABASE_NAME", "Harshu")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001160949206"))
-FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1001483133470"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001313928313"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1001153485540"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -47,7 +47,7 @@ except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "✅𝙆𝙊𝙉𝙉𝙄𝘾𝙃𝙄𝙒𝘼 {first}\n\n• 𝙔𝙊𝙐 𝙉𝙀𝙀𝘿 𝙏𝙊 𝙅𝙊𝙄𝙉 4𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎 1𝙎𝙏 [ 𝙅𝙊𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ] 𝙏𝙃𝙀𝙉\n\n• 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝘽𝙔 𝙏𝘼𝙋𝙋𝙄𝙉𝙂 𝙊𝙉 📥 𝙏𝙍𝙔 𝘼𝙂𝘼𝙄𝙉 📥\n\n• 𝙆𝙀𝙀𝙋 𝙎𝙐𝙋𝙋𝙊𝙍𝙏𝙄𝙉𝙂 ❤️</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "✅𝙆𝙊𝙉𝙉𝙄𝘾𝙃𝙄𝙒𝘼 {first}\n\n• 𝙔𝙊𝙐 𝙉𝙀𝙀𝘿 𝙏𝙊 𝙅𝙊𝙄𝙉 2 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎 1𝙎𝙏 [ 𝙅𝙊𝙄𝙉 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 ] 𝙏𝙃𝙀𝙉\n\n• 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝘽𝙔 𝙏𝘼𝙋𝙋𝙄𝙉𝙂 𝙊𝙉 📥 𝙏𝙍𝙔 𝘼𝙂𝘼𝙄𝙉 📥\n\n• 𝙆𝙀𝙀𝙋 𝙎𝙐𝙋𝙋𝙊𝙍𝙏𝙄𝙉𝙂 ❤️</b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "Files Bot From ACG ™️ [ @Anime_Chat_Group_ACG ]")
